@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Andualem Asamenew - [Github](https://github.com/Andualem-andy) <br/>
-Joshua Asres- [Github](https://github.com/eyasuyid) 
+hassen ebrahim - [Github](https://github.com/hassenebrahim) <br/>
+
 ## License
 Public Domain. No copy write protection. 
